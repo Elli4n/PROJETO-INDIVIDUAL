@@ -1,0 +1,21 @@
+.box1 {
+    color: red;
+    width: 25%;
+    float: left;
+}
+.box2 {
+    color: yellow;
+    width: 25%;
+    float: right;
+}
+
+.box3 {
+    color: green;
+    width: 25%;
+
+}
+.box4 {
+    color: blue;
+    width: 25%;
+
+}
