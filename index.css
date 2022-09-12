@@ -1,21 +1,15 @@
-.box1 {
-    color: red;
-    width: 25%;
-    float: left;
+.conteiner {
+    
 }
-.box2 {
-    color: yellow;
-    width: 25%;
-    float: right;
+.header { 
+    
 }
-
-.box3 {
-    color: green;
-    width: 25%;
-
+.mainav {
+    
 }
-.box4 {
-    color: blue;
-    width: 25%;
-
+.leftmenu {
+    
+}
+.footer {
+    
 }
