@@ -2,7 +2,7 @@ body {
     font-family: 'Press Start 2P', cursive;
     color: white;
     background-size: 100%;
-    background:black url(/imgs/wallpaper.jpg);
+    background:black url(imgs/wallpaper.jpg);
 }
 .conteiner {
     width: 100%;
