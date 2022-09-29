@@ -26,7 +26,7 @@ body {
     
 }
 .foto1 img {
-    border-radius: 10px;
+    border-radius: 180px;
     width: 200px;
     height: 200px;
 }
@@ -41,6 +41,7 @@ body {
     align-items: center;
     border: 3px solid white;
     padding: 10px;
+    font-size: 30px;
    
 }
 .rightmenu {
@@ -72,6 +73,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     padding-bottom: 10px;
+    font-size: 30px;
 }
 .textohobbies {
     padding: 20px;
